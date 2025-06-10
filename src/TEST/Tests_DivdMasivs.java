@@ -7,6 +7,11 @@ public class Tests_DivdMasivs {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
+        System.out.println("\n===============================");
+        System.out.println("||        T E S T S          ||");
+        System.out.println("||  DIVDIMENSIJU MASIVS JAVA ||");
+        System.out.println("===============================\n");
+        
         String[][] jaut = {
             {"Kas ir divdimensiju masīvs?", 
              "Masīvs, kuram ir divi indeksi", 
@@ -109,8 +114,10 @@ public class Tests_DivdMasivs {
         
         double procent = (par /  (double) jaut.length) *  100;
 
-
-        System.out.println("Pareizas atbildes: " + par  + " no " +  jaut.length);
+        System.out.println("\n===============================" );
+        System.out.println("||     TESTA REZULTĀTS       ||");
+        System.out.println("===============================");
+        System.out.println("Pareizas atbildes: " + par + " no " +  jaut.length);
         System.out.println("Kopējais rezultāts: "  +  procent + "%");
 
         scanner.close();
