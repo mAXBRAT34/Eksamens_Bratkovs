@@ -113,11 +113,14 @@ public class Tests_DivdMasivs {
         double procent = (par /  (double) jaut.length) *  100;
 
         System.out.println("\n===============================" );
-        System.out.println("||     TESTA REZULTĀTS       ||");
+        System.out.println("||     TESTA REZULTATS       ||");
         System.out.println("===============================");
         System.out.println("Pareizas atbildes: " + par + " no " +  jaut.length);
         System.out.println("Kopējais rezultāts: "  +  procent + "%");
-
+        
+        System.out.println("\nNospied Enter, lai izietu...");
+        scanner.nextLine();
+        scanner.nextLine();
         scanner.close();
     }
 }
