@@ -67,7 +67,6 @@ public class Tests_DivdMasivs {
              "-", 
              "0"},
              
-            
             {"Kā var piešķirt vērtību konkrētam divdimensiju masīva elementam?", 
              "masivs[1][2] = 5;",
              "masivs[1,2] = 5;",
@@ -111,7 +110,6 @@ public class Tests_DivdMasivs {
             
         }
 
-        
         double procent = (par /  (double) jaut.length) *  100;
 
         System.out.println("\n===============================" );
