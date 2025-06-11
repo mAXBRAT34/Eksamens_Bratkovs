@@ -19,7 +19,7 @@ Es realizēju:
   - Labirints 
   - Spēles laukuma simulācija
   - **Prezentācija** - Prezentācija ar skaistu dizainu un īsu informāciju par izvēlēto temu un manu darbu.
-  - **Tests** - Tests, kas tiek izvadīts konsolē, neļauj lietotājam ievadīt simbolas, kuras nevar, dod lietotāja zināšanu rezultātu procentos.
+  - **Tests** - Tests, kas neļauj lietotājam ievadīt simbolas, kuras nevar, dod lietotāja zināšanu rezultātu procentos.
  
 ## Problēmas un to risinājumi  
 Šajā projektā es saskāros ar šādām problēmām:  
