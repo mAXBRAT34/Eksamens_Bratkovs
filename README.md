@@ -39,3 +39,8 @@ Ar laiku pamazām, sāku saprast, kas tiek prasīts uzdevumos un kā vislabāk t
 ![image](https://github.com/user-attachments/assets/42178eef-4c35-4b96-960d-bda2ce4ca177)
 ![image](https://github.com/user-attachments/assets/062ce97c-b517-4467-a7fb-4569b105fdab)
 ![image](https://github.com/user-attachments/assets/5753218f-a902-4442-8335-1e141353f6ea)
+## Test kā JOptionPane
+![image](https://github.com/user-attachments/assets/5670e728-5f84-412f-964d-1e80e9e09df4)
+![image](https://github.com/user-attachments/assets/7c08efd3-50ca-4f30-a842-16dd27755923)
+![image](https://github.com/user-attachments/assets/3ba77849-171e-4cb0-aee1-b4371b398575)
+![image](https://github.com/user-attachments/assets/d604d129-e280-42b4-bed5-a80c007e959d)
