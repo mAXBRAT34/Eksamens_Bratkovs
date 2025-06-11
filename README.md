@@ -11,7 +11,7 @@ Sākotnēji plānoju:
 - Veikt **testu**, kurā pārbaudīt zināšanas par divdimensiju masīvu  
 - Izveidot **prezentāciju** par to, ko es izdarīju
 - 
-## ✅ Ko es izveidoju?  
+## Ko es izveidoju?  
 Es realizēju:  
 - **Mācību materiālu**, kas skaidro divdimensiju masīvus un to pielietojumu.  
 - **Praktiskus koda piemērus**, kas parāda dažādas funkcionalitātes:  
@@ -21,7 +21,7 @@ Es realizēju:
   - **Prezentācija** - Prezentācija ar skaistu dizainu un īsu informāciju par izvēlēto temu un manu darbu.
   - **Tests** - Tests, kas tiek izvadīts konsolē, neļauj lietotājam ievadīt simbolas, kuras nevar, dod lietotāja zināšanu rezultātu procentos.
  
-## 🔥 Problēmas un to risinājumi  
+## Problēmas un to risinājumi  
 Šajā projektā es saskāros ar šādām problēmām:  
 - **Uzdevuma izpratne** – tikt skaidrībā, kādas tieši ir katra uzdevuma prasības.  
 - **Slaidu izveide** – piemeklēt piemērotu struktūru, formatēt tekstu un pievienot vizualizāciju.
@@ -35,3 +35,7 @@ Ar laiku pamazām, sāku saprast, kas tiek prasīts uzdevumos un kā vislabāk t
 ![image](https://github.com/user-attachments/assets/3b2c4319-a394-4b02-a0cc-2adb81aaa818)
 ![image](https://github.com/user-attachments/assets/e083499c-76cd-4205-9e70-c36095feff11)
 ![image](https://github.com/user-attachments/assets/b692fdcc-3495-4f84-b47e-5c7294712702)
+## Tests 
+![image](https://github.com/user-attachments/assets/42178eef-4c35-4b96-960d-bda2ce4ca177)
+![image](https://github.com/user-attachments/assets/062ce97c-b517-4467-a7fb-4569b105fdab)
+![image](https://github.com/user-attachments/assets/5753218f-a902-4442-8335-1e141353f6ea)
